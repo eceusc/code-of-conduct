@@ -4,7 +4,7 @@ The Code of Conduct that all ECE USC Open Source projects must follow.
 ## The Code of Conduct
 
 The Code of Conduct is the [Contributor Covenant](https://www.contributor-covenant.org/) with
-the [Uc San Diego Principles of Community](https://ucsd.edu/about/principles.html)
+the [UC San Diego Principles of Community](https://ucsd.edu/about/principles.html)
 added as well. This is the initial version of this Code, and may change in the future.
 
 ## Installation
@@ -22,7 +22,7 @@ file to your git repo, and you'll be good to go!
 ## Open Source project requirements
 
 All repos within the ECE USC Open Source Project Team will be required to use this
-Code of Conduct. If thise Code changes, ECE USC will notify all project owners 
+Code of Conduct. If theis Code changes, ECE USC will notify all project owners 
 to allow for updates.
 
 ## Contributions
